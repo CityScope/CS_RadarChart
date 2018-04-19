@@ -1,0 +1,68 @@
+body {
+    background:rgba(0, 0, 0, 0.726);
+    font-family: Tahoma;
+    font-size: 7pt;
+    color: rgba(255, 255, 255, 0.849);
+    padding-top: 60px;
+    fill: rgba(255, 255, 255, 0.849);
+    text-shadow: 0 1px 0 rgba(129, 129, 129, 0), 1px 0 0 rgba(129, 129, 129, 0), -1px 0 0 rgba(129, 129, 129, 0), 0 -1px 0 rgba(129, 129, 129, 0);
+    display:block;
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+}
+
+.App {
+    text-align: center;
+    align-content: center;
+    color: rgba(255, 255, 255, 0.849);
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 1s linear;
+    height: 80px;
+    color: rgba(187, 184, 184, 0.849);
+}
+
+.App-logo-box {
+    width: 110px;
+    color: rgba(187, 184, 184, 0.849);
+}
+
+.App-header {
+    padding: 20px;
+    color: rgba(122, 122, 122, 0.849);
+}
+
+.App-title {
+    font-size: 1.6em;
+    color: rgba(187, 184, 184, 0.849);
+}
+
+.App-intro {
+    font-size: large;
+    color: rgba(187, 184, 184, 0.849);
+}
+
+
+
+@keyframes App-logo-spin {
+    from {
+        transform: translateY(35px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+.title{
+    font-size: 16pt;
+}
+
+.recharts-polar-angle-axis{
+    fill: rgba(146, 146, 146, 0.89);
+    font-family: Tahoma;
+}
+
+.barChart{
+    width:100vw;
+}
