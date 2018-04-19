@@ -1,27 +1,27 @@
-;Young Profesional;Mid Carrer professional;Executives;Workforce;Family (Young Children & High School);College;Homemakers;Retirees;Artis
-Residentia Density;0;0;0;0;8;7;10;9;3
-Employment Density;7;8;10;12;0;0;0;0;0
-3rd places (day) Density;4;4;4;4;3;5;8;1;4
-3rd places (Night) Density;5;7;6;9;0;0;0;0;10
-Cultural Density;2;2;7;4;0;4;3;5;10
-Co-working Density;20;5;0;0;0;5;0;0;7
-Educational Density;0;0;0;0;15;17;0;0;5
-Access to Parks;0;0;0;0;12;5;10;10;0
-Access to public Transport;7;4;0;7;5;6;3;4;1
-Intersection Density;0;0;12;0;6;0;10;9;0
-Access to look-out (Police);0;0;10;0;0;0;15;12;0
-Access to Healthy food;0;5;10;0;0;0;20;0;2
-Access to Sports (Leisure and wellness);6;8;5;7;1;10;0;0;0
-Access to Healthcare ;0;2;8;4;6;0;7;10;0
-Residential Diversity;10;0;0;0;2;7;3;5;10
-Employment Diversity;15;8;3;6;0;0;0;0;5
-Residential/Employment (Ratio) Diversity;5;5;5;5;5;2;5;5;0
-3rd Places Diversity;10;5;10;0;0;0;0;2;10
-Cultural Diversity;6;3;10;0;0;2;3;3;10
-Educational Diversity;0;0;0;0;10;17;0;0;10
-Building Energy;9;-3;-8;-5;9;7;14;8;6
-Mobility Energy;8;-6;-12;-5;14;10;5;12;11
-Innovation Potential;14;6;2;5;0;0;0;0;10
-Safety & Security;2;-1;7;-1;10;-1;14;12;-5
-Social Welbeing;10;0;0;0;10;3;10;2;2
-Developer Profit;4;7;15;6;5;2;5;-5;-2
+;Young Profesional;Mid Carrer professional;Executives;Workforce;Young Children ;High School;College;Homemakers;Retirees;Artis
+Residentia Density;0;0;0;0;5;6;7;10;9;3
+Employment Density;7;8;11;14;0;0;0;0;0;0
+3rd places (day) Density;4;4;4;4;1;2;5;11;1;4
+3rd places (Night) Density;5;7;6;10;0;0;0;0;0;12
+Cultural Density;2;2;7;4;0;0;3;5;6;11
+Co-working Density;20;5;0;0;0;0;7;0;0;8
+Educational Density;0;0;0;0;9;10;16;0;0;5
+Access to Parks;0;0;0;0;8;7;5;10;10;0
+Access to public Transport;7;4;0;7;2;3;7;3;4;3
+Intersection Density;0;0;12;0;5;4;0;10;9;0
+Access to look-out (Police);0;0;10;0;0;2;1;15;12;0
+Access to Healthy food;2;5;10;0;0;0;1;20;0;2
+Access to Sports (Leisure and wellness);6;8;5;7;1;3;10;0;0;0
+Access to Healthcare ;1;2;8;4;3;3;0;8;11;0
+Residential Diversity;10;0;0;0;2;2;8;3;5;10
+Employment Diversity;16;9;3;7;0;0;0;0;0;5
+Residential/Employment (Ratio) Diversity;5;5;5;5;3;3;4;5;5;0
+3rd Places Diversity;12;5;10;0;0;0;0;0;2;11
+Cultural Diversity;5;4;10;1;0;0;2;3;3;12
+Educational Diversity;0;0;0;0;10;10;12;0;0;8
+Building Energy;14;-3;-8;-5;4;5;12;7;8;6
+Mobility Energy;11;-6;-12;-5;5;9;10;5;12;11
+Innovation Potential;16;6;2;5;0;0;0;0;0;11
+Safety & Security;2;-1;8;-1;7;4;-1;15;12;-5
+Social Welbeing;10;0;0;0;5;5;3;12;3;2
+Developer Profit;4;7;20;6;1;1;3;5;-5;-2
