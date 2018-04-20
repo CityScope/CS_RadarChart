@@ -4,8 +4,9 @@ import { Surface, Radar, RadarChart, PolarGrid, Legend, Tooltip,
   LabelList, Label } from 'recharts';
 
   import sizeMe from 'react-sizeme';
+import {} from "./App.css";
 
-class RadarChart2 extends Component {
+class SimpleRadarChart extends Component {
 
   static displayName = 'RadarChartDemo';
 
@@ -36,10 +37,8 @@ class RadarChart2 extends Component {
     tick: true,
     hide: false,
 };
-
   */
-
-
+ 
   render() {
     //const { data } = this.state;
     const {data} = this.props;
@@ -57,7 +56,6 @@ class RadarChart2 extends Component {
             fill="rgb(36,98,161)"
             fillOpacity={0.5}
             onMouseEnter={this.handleMouseEnter}
-           
           />
           <Radar name="Urban Starting point (城市起点)" dataKey="A" stroke="rgb(71,110,221)" fill="rgb(107,160,197)" fillOpacity={0.75} />
           />
@@ -70,4 +68,4 @@ class RadarChart2 extends Component {
   }
 }
 
-export default sizeMe()(RadarChart2);
+export default sizeMe()(SimpleRadarChart);

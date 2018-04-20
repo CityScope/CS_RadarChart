@@ -3,12 +3,12 @@ import {BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend} from 'recha
 import sizeMe from 'react-sizeme';
 
 const data = [
-    {name: 'Building Energy (建筑能源)', Impact指标影响: 24,},
-    {name: 'Mobility Energy (移动能源)', Impact指标影响: 13,},
-    {name: 'Innovation Potential (创新潜力)', Impact指标影响: 98,},
-    {name: 'Safety & Security (安全和保障)', Impact指标影响: 39,},
-    {name: 'Social Wellbeing (社会福利)', Impact指标影响: 48,},
-    {name: 'Developer Profit (开发商利润)', Impact指标影响: 38,},
+    {name: 'Building Energy (建筑能源)', "Impact (指标影响)": 24,},
+    {name: 'Mobility Energy (移动能源)', "Impact (指标影响)": 13,},
+    {name: 'Innovation Potential (创新潜力)', "Impact (指标影响)": 98,},
+    {name: 'Safety & Security (安全和保障)', "Impact (指标影响)": 39,},
+    {name: 'Social Wellbeing (社会福利)', "Impact (指标影响)": 48,},
+    {name: 'Developer Profit (开发商利润)', "Impact (指标影响)": 38,},
 ];
 
 class SimpleBarChart extends Component {
@@ -24,7 +24,7 @@ class SimpleBarChart extends Component {
         <YAxis/>
         <Tooltip/>
         <Legend />
-        <Bar dataKey="Impact指标影响" stackId="a" fill="rgba(7, 81, 133, 0.849)" />
+        <Bar dataKey="Impact (指标影响)" stackId="a" fill="rgba(7, 81, 133, 0.849)" />
         </BarChart>
         );
     }

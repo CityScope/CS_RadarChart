@@ -1,14 +1,21 @@
 body {
-    background:rgba(0, 0, 0, 0.726);
+    background: rgba(0, 0, 0, 0.726);
     font-family: Tahoma;
     font-size: 7pt;
     color: rgba(255, 255, 255, 0.849);
     padding-top: 60px;
     fill: rgba(255, 255, 255, 0.849);
     text-shadow: 0 1px 0 rgba(129, 129, 129, 0), 1px 0 0 rgba(129, 129, 129, 0), -1px 0 0 rgba(129, 129, 129, 0), 0 -1px 0 rgba(129, 129, 129, 0);
-    display:block;
+    display: block;
     -webkit-user-select: none;
     -webkit-app-region: drag;
+    font-family: 'Hiragino Kaku Gothic Pro', 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', Helvetica, Arial, sans-serif;
+    overflow: visible;
+}
+
+svg>text {
+    color: #f00;
+    font-family: 'Hiragino Kaku Gothic Pro', 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', Helvetica, Arial, sans-serif;
 }
 
 .App {
@@ -43,8 +50,6 @@ body {
     color: rgba(187, 184, 184, 0.849);
 }
 
-
-
 @keyframes App-logo-spin {
     from {
         transform: translateY(35px);
@@ -54,15 +59,15 @@ body {
     }
 }
 
-.title{
+.title {
     font-size: 16pt;
 }
 
-.recharts-polar-angle-axis{
+.recharts-polar-angle-axis {
     fill: rgba(146, 146, 146, 0.89);
     font-family: Tahoma;
 }
 
-.barChart{
-    width:100vw;
+.barChart {
+    width: 100vw;
 }
